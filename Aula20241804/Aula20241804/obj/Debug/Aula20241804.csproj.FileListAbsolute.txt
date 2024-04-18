@@ -1,0 +1,8 @@
+C:\DevC\Aula20241804\Aula20241804\bin\Debug\Aula20241804.exe.config
+C:\DevC\Aula20241804\Aula20241804\bin\Debug\Aula20241804.exe
+C:\DevC\Aula20241804\Aula20241804\bin\Debug\Aula20241804.pdb
+C:\DevC\Aula20241804\Aula20241804\obj\Debug\Aula20241804.csproj.AssemblyReference.cache
+C:\DevC\Aula20241804\Aula20241804\obj\Debug\Aula20241804.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula20241804\Aula20241804\obj\Debug\Aula20241804.csproj.CoreCompileInputs.cache
+C:\DevC\Aula20241804\Aula20241804\obj\Debug\Aula20241804.exe
+C:\DevC\Aula20241804\Aula20241804\obj\Debug\Aula20241804.pdb
